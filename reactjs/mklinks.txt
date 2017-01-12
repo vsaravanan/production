@@ -1,0 +1,1 @@
+mklink /j react-interface D:\git\ies\dev\reactjs\reactjs\reactinterface\builds\app
